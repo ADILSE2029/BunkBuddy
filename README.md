@@ -21,8 +21,7 @@ can skip while staying above the limit.
 
 ## Subjects tracked
 
-Probability & Statistics, Technical & Business Writing, Digital Logic Design,
-Introduction to Software Engineering, Object Oriented Programming, Discrete Structures
+Add any subject you want and it will be available to track
 
 ## How to run
 
